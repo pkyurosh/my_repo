@@ -1,2 +1,1 @@
-Hello From Kyurosh Pokharel.
-This is demo for my git repo.
+Hello From Kyurosh Pokharel
